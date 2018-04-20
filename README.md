@@ -7,3 +7,7 @@ OIDC allows you to authenticate directly against the Okta API, and this article 
 
 OpenID Connect (OIDC) builds on top of the OAuth 2.0 protocol. It allows clients to verify the identity of the user and obtain their basic profile information. In this app, we integrate Okta’s Identity Platform for user authentication.
 
+### This is how the app looks on all platforms:
+![alt text](http://res.cloudinary.com/ashygoyal/image/upload/v1524214194/mtaDemo_ieoimw.png)
+
+
